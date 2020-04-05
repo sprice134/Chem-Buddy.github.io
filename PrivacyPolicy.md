@@ -112,6 +112,7 @@ California Civil Code Section 1798.83, also known as the “Shine The Light” l
 # CONTACT US
 If you have questions or comments about this Privacy Policy, please contact us at:
 
-# Daedalus Creations
+Daedalus Creations
+
 stepheneprice1@gmail.com                                                                                                                          
 
