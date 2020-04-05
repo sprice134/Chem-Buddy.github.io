@@ -106,7 +106,8 @@ If you no longer wish to receive correspondence, emails, or other communications
 ●	Contacting us using the contact information provided below
 
 If you no longer wish to receive correspondence, emails, or other communications from third parties, you are responsible for contacting the third party directly. 
-CALIFORNIA PRIVACY RIGHTS
+
+# CALIFORNIA PRIVACY RIGHTS
 California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
 
 # CONTACT US
