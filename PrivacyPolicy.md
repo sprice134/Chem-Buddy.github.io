@@ -1,5 +1,5 @@
 # Chem Buddy Privacy Policy
-Last updated [04/07/2020]
+Last updated [04/08/2020]
 
 Daedalus Creations respects the privacy of our users. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application Chem Buddy.  Please read this Privacy Policy carefully.  IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION. 
 
@@ -8,6 +8,8 @@ We reserve the right to make changes to this Privacy Policy at any time and for 
 This Privacy Policy does not apply to the third-party online/mobile store from which you install the Application or make payments, including any in-game virtual items, which may also collect and use data about you.  We are not responsible for any of the data collected by any such third party. 
 COLLECTION OF YOUR INFORMATION
 We may collect information about you in a variety of ways.  The information we may collect via the Application depends on the content and materials you use, and includes:  
+
+While Daedalus Creations has gone to great lengths to ensure all answers are delivered accurately and precisely, it is possible for bugs to persist in the algorithms. By using Chem Buddy, you agree to not hold its owners, operators, or Daedalus Creations responsible for actions that occur as a result of using Chem Buddy, including but not limited to incorrect answers or use in a situation where it is not permitted.
 
 # Personal Data 
 We do not collect personal data unless a customer inquiry is made to our support team. At this point your name, contact info and app usage are stored but nothing else.
@@ -63,6 +65,8 @@ With your consent, or with an opportunity for you to withdraw consent, we may sh
 
 # Third-Party Advertisers 
 We may use third-party advertising companies to serve ads when you visit the Application. These companies may use information about your visits to the Application and other websites that are contained in web cookies in order to provide advertisements about goods and services of interest to you. 
+
+Currently, we are using Google Admobs. We encourage you to read their privacy policy in addition. If you do not agree to both of these policies, please do not access or use this application.
 
 # Affiliates 
 We may share your information with our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include our parent company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us.
